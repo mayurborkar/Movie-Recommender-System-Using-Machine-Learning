@@ -131,3 +131,6 @@ dmypy.json
 ##My File
 archive/tmdb_5000_credits.csv
 archive/tmdb_5000_movies.csv
+
+artifacts/movie_list.pkl
+artifacts/similarity.pkl
